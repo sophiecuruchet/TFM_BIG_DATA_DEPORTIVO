@@ -10,7 +10,7 @@
 - `app/assets/players/`: imágenes locales/cacheadas de jugadores.
 - `requirements.txt`: librerías necesarias.
 - `Diccionario datos.pdf`: Diccionario de archivos, métricas y términos utilizados.
-- `data_dictionary.txt`: Diccionario de los datos recopilados realizado por Jeff Sackmann Tennis Project⁠. 
+- `data_dictionary.txt`: Diccionario de los datos recopilados, realizado por Jeff Sackmann Tennis Project⁠. 
 
 ## Cómo ejecutar
 
@@ -37,7 +37,7 @@ streamlit run app/app.py
 
 ## Fuentes
 
-- Jeff Sackmann Tennis Charting Project.
+- Jeff Sackmann Tennis Charting Project. "https://github.com/JeffSackmann/tennis_MatchChartingProject"
 - ATP Tour Rankings Archive.
 - Tennis Abstract como referencia contextual.
 
