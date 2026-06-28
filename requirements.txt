@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+plotly
+requests
+beautifulsoup4
+lxml
+python-docx
+Pillow
