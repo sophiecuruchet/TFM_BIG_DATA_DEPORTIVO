@@ -9,6 +9,8 @@
 - `data/processed/`: datasets limpios usados por la app. Se necesita descomprimir la carpeta para poder utilizarse.
 - `app/assets/players/`: imágenes locales/cacheadas de jugadores.
 - `requirements.txt`: librerías necesarias.
+- `Diccionario datos.pdf`: Diccionario de archivos, métricas y términos utilizados.
+- `data_dictionary.txt`: Diccionario de los datos recopilados realizado por Jeff Sackmann Tennis Project⁠. 
 
 ## Cómo ejecutar
 
@@ -42,10 +44,3 @@ streamlit run app/app.py
 ## Limitación metodológica
 
 La muestra de análisis de juego se basa en partidos charted públicamente disponibles. Por tanto, el proyecto debe interpretarse como una herramienta de análisis reproducible sobre una muestra observada, no como una base oficial completa de todos los partidos ATP.
-
-
-
-- Dashboard ATP corregido: solo mantiene un box plot principal y añade líderes Top 100 2025 por métricas de juego.
-- Pestaña Carlos Alcaraz ampliada con records, Grand Slams, torneos ganados 2022-2025 y análisis del Australian Open como Grand Slam pendiente.
-- Comparador ATP simplificado: radar normalizado, efectividad por golpe, un único box plot Winner/UE y línea de rallies.
-- Ranking ATP de cierre anual mantiene Top 100 con imágenes locales/cacheadas.
