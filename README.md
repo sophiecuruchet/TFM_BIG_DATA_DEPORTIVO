@@ -11,14 +11,11 @@ Plataforma web de análisis de juego ATP 2022-2025 con énfasis en Carlos Alcara
 - `data/raw/`: archivos originales del Tennis Charting Project.
 - `data/processed/`: datasets limpios usados por la app.
 - `app/assets/players/`: imágenes locales/cacheadas de jugadores.
-- `presentation/`: presentación final en PDF y PPTX.
-- `docs/`: guion de vídeo y guía de archivos.
 - `requirements.txt`: librerías necesarias.
 
 ## Cómo ejecutar
 
 ```bash
-cd Curuchet_Sophie_TFM_EntregaFinal_FINAL_COMPLETO
 pip install -r requirements.txt
 streamlit run app/app.py
 ```
@@ -50,7 +47,6 @@ streamlit run app/app.py
 La muestra de análisis de juego se basa en partidos charted públicamente disponibles. Por tanto, el proyecto debe interpretarse como una herramienta de análisis reproducible sobre una muestra observada, no como una base oficial completa de todos los partidos ATP.
 
 
-## Actualización final v12
 
 - Dashboard ATP corregido: solo mantiene un box plot principal y añade líderes Top 100 2025 por métricas de juego.
 - Pestaña Carlos Alcaraz ampliada con records, Grand Slams, torneos ganados 2022-2025 y análisis del Australian Open como Grand Slam pendiente.
