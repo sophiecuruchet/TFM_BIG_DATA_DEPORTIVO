@@ -5,8 +5,8 @@
 
 - `app/app.py`: aplicación final en Streamlit.
 - `etl/build_processed_data.py`: proceso ETL para generar los CSV procesados.
-- `data/raw/`: archivos originales del Tennis Charting Project.
-- `data/processed/`: datasets limpios usados por la app.
+- `data/raw/`: archivos originales del Tennis Charting Project. Se necesita descomprimir la carpeta para poder utilizarse.
+- `data/processed/`: datasets limpios usados por la app. Se necesita descomprimir la carpeta para poder utilizarse.
 - `app/assets/players/`: imágenes locales/cacheadas de jugadores.
 - `requirements.txt`: librerías necesarias.
 
