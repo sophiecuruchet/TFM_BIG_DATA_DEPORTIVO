@@ -39,7 +39,6 @@ streamlit run app/app.py
 
 - Jeff Sackmann Tennis Charting Project. "https://github.com/JeffSackmann/tennis_MatchChartingProject"
 - ATP Tour Rankings Archive.
-- Tennis Abstract como referencia contextual.
 
 ## Limitación metodológica
 
